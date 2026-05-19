@@ -1,0 +1,83 @@
+{
+  "2026-04-14": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 11184,
+      "Maya Credit 181 DPD & UP": 113130,
+      "Maya Negosyo Advance 121 - 150 DPD": 511,
+      "Maya Negosyo Advance 181 DPD & UP": 7715
+    },
+    "total_rows": 132540
+  },
+  "2026-04-15": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 11179,
+      "Maya Credit 181 DPD & UP": 66357,
+      "Maya Negosyo Advance 121 - 150 DPD": 519,
+      "Maya Negosyo Advance 181 DPD & UP": 7754
+    },
+    "total_rows": 85809
+  },
+  "2026-04-16": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 11179,
+      "Maya Credit 181 DPD & UP": 66357,
+      "Maya Negosyo Advance 121 - 150 DPD": 518,
+      "Maya Negosyo Advance 181 DPD & UP": 7787
+    },
+    "total_rows": 85841
+  },
+  "2026-04-17": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 12084,
+      "Maya Credit 181 DPD & UP": 114035,
+      "Maya Negosyo Advance 121 - 150 DPD": 523,
+      "Maya Negosyo Advance 181 DPD & UP": 7829
+    },
+    "total_rows": 134471
+  },
+  "2026-04-20": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 12510,
+      "Maya Credit 181 DPD & UP": 116387,
+      "Maya Negosyo Advance 121 - 150 DPD": 558,
+      "Maya Negosyo Advance 181 DPD & UP": 7928
+    },
+    "total_rows": 137383
+  },
+  "2026-05-05": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 14869,
+      "Maya Credit 181 DPD & UP": 132592,
+      "Maya Negosyo Advance 121 - 150 DPD": 863,
+      "Maya Negosyo Advance 181 DPD & UP": 8416
+    },
+    "total_rows": 156740
+  },
+  "2026-05-06": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 14838,
+      "Maya Credit 181 DPD & UP": 133604,
+      "Maya Negosyo Advance 121 - 150 DPD": 873,
+      "Maya Negosyo Advance 181 DPD & UP": 8444
+    },
+    "total_rows": 157759
+  },
+  "2026-05-07": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 15011,
+      "Maya Credit 181 DPD & UP": 136499,
+      "Maya Negosyo Advance 121 - 150 DPD": 873,
+      "Maya Negosyo Advance 181 DPD & UP": 8473
+    },
+    "total_rows": 160856
+  },
+  "2026-05-13": {
+    "counts": {
+      "Maya Credit 121 - 150 DPD": 15206,
+      "Maya Credit 181 DPD & UP": 152495,
+      "Maya Negosyo Advance 121 - 150 DPD": 950,
+      "Maya Negosyo Advance 181 DPD & UP": 8628
+    },
+    "total_rows": 177279
+  }
+}

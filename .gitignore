@@ -1,0 +1,14 @@
+venv/
+temp/call_recordings/*/
+temp/test/
+temp/*/*.pkl
+new_env/
+resources/maya_product_taggings.json
+.streamlit/
+.env
+*.pyc
+.git
+*.pyc
+tasksync-mcp
+*.github
+
